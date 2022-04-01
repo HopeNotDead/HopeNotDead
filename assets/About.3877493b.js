@@ -1,0 +1,1 @@
+import{_ as e}from"./index.e5e7fe7a.js";import{d as o,c as a,t as r,o as n}from"./vendor.ea3916f6.js";const s=o({name:"About",data(){return{msg:"About Page"}},setup(){}});function p(t,c,m,u,f,i){return n(),a("h1",null,r(t.msg),1)}var l=e(s,[["render",p]]);export{l as default};
